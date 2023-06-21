@@ -9,9 +9,6 @@ dependencies:
   flutter_lints: ^2.0.0
   intl:
 
-  app_bloc_state:
-    path: ../mybloc/app_bloc_state
-
   formz: 0.4.1
   equatable:
 
